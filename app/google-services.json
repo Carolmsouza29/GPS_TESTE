@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12260240509",
+    "project_id": "gpsnew-3c60c",
+    "storage_bucket": "gpsnew-3c60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12260240509:android:fe381a4003f995018c5514",
+        "android_client_info": {
+          "package_name": "com.example.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12260240509-e6g3irnkblhdra1kjmvatc3suafjfk9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBouJyAFi6S_sSqZlDDsZDMt3bb8q1LKGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12260240509-e6g3irnkblhdra1kjmvatc3suafjfk9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

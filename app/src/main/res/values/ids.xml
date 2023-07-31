@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TempoPercorrido" type="id" />
+    <item name="tv_labelspeed" type="id" />
+    <item name="tempPercorridoView" type="id" />
+    <item name="DistanciaPercorrida" type="id" />
+    <item name="DistPercorridaView" type="id" />
+    <item name="tv_lbladdress3" type="id" />
+    <item name="CombConsumidoView" type="id" />
+    <item name="tv_lbladdress2" type="id" />
+    <item name="velociAtualView" type="id" />
+    <item name="velocEsperadaView" type="id" />
+    <item name="tv_labellat" type="id" />
+    <item name="latitudeView" type="id" />
+    <item name="tv_labellon" type="id" />
+    <item name="longitudeView" type="id" />
+    <item name="tv_labelaltitude" type="id" />
+    <item name="reconcView" type="id" />
+    <item name="tv_labelaccuracy" type="id" />
+    <item name="tempoTotalView" type="id" />
+    <item name="distTotalView" type="id" />
+    <item name="tv_address" type="id" />
+    <item name="tv_lbladdress" type="id" />
+    <item name="divider" type="id" />
+    <item name="updatesB" type="id" />
+    <item name="iniciarB" type="id" />
+</resources>
